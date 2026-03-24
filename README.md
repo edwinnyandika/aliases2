@@ -988,7 +988,7 @@ ntt   →  needs: Windows Terminal installed
 <br/>
 
 [![Fork](https://img.shields.io/badge/⭐%20STAR%20THIS%20REPO-ff00ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edwinnyandika/aliases2)
-[![Fork](https://img.shields.io/badge/🍴%20FORK%20%26%20CUSTOMIZE-00ffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/edwinnyandika/aliases2/fork)
+[![Fork](https://img.shields.io/badge/🍴%20FORK%20%26%20CUSTOMIZE-00ffff?style=for-the-badge&logo=github&logoColor=black)]((https://github.com/markmuthii/aliases/fork)
 
 <br/>
 
