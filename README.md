@@ -1,143 +1,153 @@
+<!--
+  ██████╗  ██████╗ ███╗   ██╗████████╗    ████████╗ ██████╗ ██╗   ██╗ ██████╗██╗  ██╗
+  ██╔══██╗██╔═══██╗████╗  ██║╚══██╔══╝    ╚══██╔══╝██╔═══██╗██║   ██║██╔════╝██║  ██║
+  ██║  ██║██║   ██║██╔██╗ ██║   ██║          ██║   ██║   ██║██║   ██║██║     ███████║
+  ██║  ██║██║   ██║██║╚██╗██║   ██║          ██║   ██║   ██║██║   ██║██║     ██╔══██║
+  ██████╔╝╚██████╔╝██║ ╚████║   ██║          ██║   ╚██████╔╝╚██████╔╝╚██████╗██║  ██║
+  ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝   ╚═╝          ╚═╝    ╚═════╝  ╚═════╝  ╚═════╝╚═╝  ╚═╝
+                                                                  aliases2 by KRAM
+-->
+
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,50:1a7f37,100:39d353&height=280&section=header&text=aliases2&fontSize=90&fontColor=ffffff&fontAlignY=42&desc=⚡%20KRAM%27s%20Ultimate%20Git%20Bash%20%26%20CLI%20Alias%20Collection&descAlignY=62&descSize=16&animation=fadeIn&stroke=39d353&strokeWidth=2" width="100%"/>
+<!-- ░░ RETRO WAVE HEADER ░░ -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d0221,30:0a1628,60:ff00ff,100:00ffff&height=260&section=header&text=ALIASES2&fontSize=88&fontColor=00ffff&fontAlignY=42&desc=⚡%20KRAM%27s%20RETRO%20TERMINAL%20POWER-UP%20PACK&descAlignY=64&descSize=15&animation=fadeIn&stroke=ff00ff&strokeWidth=3" width="100%"/>
 
 <br/>
 
-<!-- PROFILE VIEWS + STARS -->
-![Profile Views](https://komarev.com/ghpvc/?username=edwinnyandika&color=39d353&style=for-the-badge&label=README+VIEWS)
-[![GitHub stars](https://img.shields.io/github/stars/edwinnyandika/aliases2?style=for-the-badge&color=39d353&logo=github)](https://github.com/edwinnyandika/aliases2/stargazers)
+<!-- ░░ SCANLINE EFFECT BADGE ROW ░░ -->
+![POWER](https://img.shields.io/badge/POWER-LEVEL%209000-ff00ff?style=for-the-badge&logo=lightning&logoColor=black)
+![ALIASES](https://img.shields.io/badge/ALIASES-42%20LOADED-00ffff?style=for-the-badge&logo=gnu-bash&logoColor=black)
+![PLATFORM](https://img.shields.io/badge/PLATFORM-GIT%20BASH-ff6600?style=for-the-badge&logo=windows&logoColor=white)
+![VIEWS](https://komarev.com/ghpvc/?username=edwinnyandika&color=ff00ff&style=for-the-badge&label=VISITORS)
 
 <br/>
 
-<!-- TECH BADGES -->
-![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-11%20Aliases-F05032?style=for-the-badge&logo=git&logoColor=white)
-![npm](https://img.shields.io/badge/npm-10%20Aliases-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-9%20Aliases-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
-![Platform](https://img.shields.io/badge/Windows-Git%20Bash-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+<!-- ░░ ANIMATED TYPING - RETRO STYLE ░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=1500&pause=500&color=00FF41&background=0D0221&center=true&vCenter=true&repeat=true&width=680&height=60&lines=%3E+LOADING+ALIAS+DATABASE...+OK;%3E+gs+%3D%3D+git+status+%5BREADY%5D;%3E+gaa+%3D%3D+git+add+.+%5BREADY%5D;%3E+gpom+%3D%3D+git+push+-u+origin+main;%3E+nrd+%3D%3D+npm+run+dev+%5BREADY%5D;%3E+SYSTEM+ONLINE.+WELCOME%2C+KRAM." alt="Typing SVG" />
 
 <br/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1800&pause=600&color=39D353&center=true&vCenter=true&repeat=true&width=700&height=60&lines=gs+%E2%86%92+git+status+%E2%9A%A1;gaa+%E2%86%92+git+add+.+%F0%9F%93%A6;gc+%22msg%22+%E2%86%92+git+commit+-m+%22msg%22+%F0%9F%92%BE;gpom+%E2%86%92+git+push+-u+origin+main+%F0%9F%9A%80;nrd+%E2%86%92+npm+run+dev+%F0%9F%94%A5;pnrb+%E2%86%92+pnpm+run+build+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
+---
 
-<br/>
+<!-- ░░ RETRO SVG HERO ILLUSTRATION ░░ -->
 
-<!-- HERO QUOTE -->
+<img src="https://raw.githubusercontent.com/edwinnyandika/aliases2/main/assets/hero.svg" alt="Retro Terminal Hero" onerror="this.style.display='none'"/>
+
+<!-- INLINE RETRO TERMINAL SVG (GitHub renders this directly) -->
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  "The best command is the one you never have to fully type"  ║
-║                                          — Every Developer   ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║  ░▒▓  KRAM's SUPER ALIAS SYSTEM v2.0  ▓▒░   [GIT BASH EDITION] ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║   > INSERT COIN TO CONTINUE                                      ║
+║   > PRESS ANY ALIAS TO START                                     ║
+║                                                                  ║
+║   ████  GIT   ██████████  11 ALIASES UNLOCKED                   ║
+║   ████  NPM   █████████░  10 ALIASES UNLOCKED                   ║
+║   ████  PNPM  █████████░   9 ALIASES UNLOCKED                   ║
+║   ████  UTIL  ████████░░   8 ALIASES UNLOCKED                   ║
+║   ████  NAV   ████░░░░░░   4 ALIASES UNLOCKED                   ║
+║                                                                  ║
+║   HIGH SCORE: 190,000 keystrokes saved per year 🏆               ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-## 📋 Table of Contents
+## 📺 TABLE OF CONTENTS
 
-| | Section | Description |
-|---|---------|-------------|
-| 🗺️ | [What Are Aliases?](#-what-are-aliases) | Understand the concept visually |
-| ⚡ | [Before vs After](#-before-vs-after) | See the time savings |
-| 🚀 | [Quick Start](#-quick-start) | Get running in 60 seconds |
-| 🔶 | [Git Aliases](#-git-aliases) | 11 git shortcuts |
-| 🔴 | [npm Aliases](#-npm-aliases) | 10 npm shortcuts |
-| 🟠 | [pnpm Aliases](#-pnpm-aliases) | 9 pnpm shortcuts |
-| 🟣 | [Utility Aliases](#-utility-aliases) | Shell tools & editors |
-| 🔵 | [Navigation Aliases](#-navigation-aliases) | Jump between folders |
-| 🗺️ | [Alias Map](#-complete-alias-map) | Full visual overview |
-| 🔁 | [Workflows](#-real-world-workflows) | Real dev scenarios |
-| ⚙️ | [Installation](#-installation) | Step by step setup |
-| 🖥️ | [Custom Prompt](#-custom-prompt) | Colorized Git Bash PS1 |
-| 🎮 | [Test Yourself](#-test-yourself) | Quiz & challenges |
-| 🏆 | [Skill Tree](#-skill-tree) | Track your alias mastery |
-| ⚠️ | [Important Note](#-important-note) | Read before copy-pasting |
+```
+┌─────────────────────────────────────────────────────┐
+│  SELECT YOUR STAGE:                                 │
+│                                                     │
+│  [1] 🕹️  What Are Aliases?    → Jump in            │
+│  [2] ⚡  Before vs After       → See the savings    │
+│  [3] 🚀  Quick Start           → 60 sec setup       │
+│  [4] 🔶  Git Aliases           → 11 shortcuts       │
+│  [5] 🔴  npm Aliases           → 10 shortcuts       │
+│  [6] 🟠  pnpm Aliases          → 9 shortcuts        │
+│  [7] 🟣  Utilities             → Shell tools        │
+│  [8] 🔵  Navigation            → Folder teleport    │
+│  [9] 🗺️  Full Cheat Sheet      → Master map         │
+│  [A] 🔁  Real Workflows        → Copy & use         │
+│  [B] ⚙️  Installation          → Get set up         │
+│  [C] 🖥️  Custom Prompt         → Pimp your terminal │
+│  [D] 🎮  PLAY THE GAME         → Test your skills   │
+│  [E] 🏆  Skill Tree            → Track progress     │
+└─────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🗺️ What Are Aliases?
+## 🕹️ What Are Aliases?
 
-> An **alias** is a shortcut — a short word you define that expands into a full command when typed in the terminal.
+> **An alias = a cheat code for your terminal.** You define a short word that secretly runs a long command.
 
+<!-- RETRO HOW-IT-WORKS DIAGRAM -->
 ```
-You type:    gs
-Shell runs:  git status
-```
-
-Think of it like autocomplete you build yourself. Once set up, your fingers barely have to move.
-
-### How It Works Under The Hood
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                     YOUR TERMINAL SESSION                       │
-│                                                                 │
-│   You type: gpom                                                │
-│       │                                                         │
-│       ▼                                                         │
-│   ┌─────────────┐    looks up    ┌──────────────────────────┐  │
-│   │   ~/.bashrc  │ ─────────────▶│  gpom = git push -u      │  │
-│   │  (alias map) │               │         origin main       │  │
-│   └─────────────┘                └──────────────────────────┘  │
-│       │                                          │              │
-│       │              expands to                  │              │
-│       └──────────────────────────────────────────┘              │
-│                          │                                      │
-│                          ▼                                      │
-│              git push -u origin main  ✅ runs!                  │
-└─────────────────────────────────────────────────────────────────┘
+  ╔══════════════════════════════════════════════════════════════╗
+  ║           HOW THE ALIAS MACHINE WORKS                       ║
+  ╠══════════════════════════════════════════════════════════════╣
+  ║                                                              ║
+  ║   YOU TYPE          BASH READS           RUNS               ║
+  ║                                                              ║
+  ║  ┌────────┐        ┌──────────────┐     ┌────────────────┐  ║
+  ║  │  gpom  │──────▶ │  ~/.bashrc   │────▶│git push -u     │  ║
+  ║  └────────┘  look  │  alias gpom= │     │origin main     │  ║
+  ║               up   │  'git push   │     └────────────────┘  ║
+  ║                    │   -u origin  │            ↓            ║
+  ║                    │    main'     │         ✅ DONE!         ║
+  ║                    └──────────────┘                         ║
+  ║                                                              ║
+  ║   4 chars typed  ──────────────────────▶  25 chars saved!   ║
+  ╚══════════════════════════════════════════════════════════════╝
 ```
 
-### Where Aliases Live
-
+**The cheat code file lives here:**
 ```
-HOME DIRECTORY
-└── ~/.bashrc                 ← your aliases live here
-      ├── alias gs='git status'
-      ├── alias gaa='git add .'
-      ├── alias gpom='git push -u origin main'
-      └── ... 40 more aliases
+~/.bashrc
+ │
+ ├── alias gi='git init'
+ ├── alias gs='git status'
+ ├── alias gaa='git add .'
+ ├── alias gc='git commit -m'
+ ├── alias gpom='git push -u origin main'
+ └── ... 37 more power-ups
 ```
 
-> 💡 **After editing `.bashrc`**, run `sb` (which is `source ~/.bashrc`) to reload it instantly — no need to restart your terminal!
+> 💡 After editing `.bashrc`, type **`sb`** to reload — it's the alias for `source ~/.bashrc`!
 
 ---
 
 ## ⚡ Before vs After
 
-See how much typing aliases save you every single day:
+<!-- ANIMATED DEMO GIF via camo proxy - retro terminal style -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2500&pause=1000&color=FF00FF&background=0D0221&center=true&vCenter=true&repeat=true&width=680&height=50&lines=BEFORE%3A+git+push+-u+origin+main+%5B25+chars%5D;AFTER%3A++gpom+%5B4+chars%5D+%E2%9A%A1+84%25+LESS+TYPING!" alt="Before After" />
+
+</div>
 
 ```
-BEFORE aliases                        AFTER aliases
-──────────────────────────────────    ──────────────────────────
-$ git status                          $ gs
-$ git add .                           $ gaa
-$ git commit -m "feat: navbar"        $ gc "feat: navbar"
-$ git push -u origin main             $ gpom
-──────────────────────────────────    ──────────────────────────
-  74 characters typed                   22 characters typed
-                                        70% LESS TYPING ⚡
-```
-
-### ⏱️ Time Saved Per Day
-
-Assuming you run these commands ~20 times a day:
-
-```
-Command              Saved chars    × 20/day    Per year (250 days)
-───────────────────────────────────────────────────────────────────
-git status        →  8 chars        160/day     40,000 keystrokes
-git add .         →  7 chars        140/day     35,000 keystrokes
-git commit -m     →  11 chars       220/day     55,000 keystrokes
-git push          →  4 chars        80/day      20,000 keystrokes
-npm run dev       →  8 chars        160/day     40,000 keystrokes
-───────────────────────────────────────────────────────────────────
-TOTAL SAVED:  ~190,000 keystrokes per year 🎉
+╔══════════════════════════════════════════════════════════════════╗
+║          ⚡ THE GREAT KEYSTROKE COMPARISON ⚡                    ║
+╠═══════════════════════════╦══════════════════════════════════════╣
+║  BEFORE  (no aliases)     ║  AFTER  (aliases2 installed)        ║
+╠═══════════════════════════╬══════════════════════════════════════╣
+║  $ git status             ║  $ gs                               ║
+║  $ git add .              ║  $ gaa                              ║
+║  $ git commit -m "fix"    ║  $ gc "fix"                         ║
+║  $ git push -u origin main║  $ gpom                             ║
+║  $ npm run dev            ║  $ nrd                              ║
+╠═══════════════════════════╬══════════════════════════════════════╣
+║  74 characters typed      ║  22 characters typed                ║
+║                           ║  ↑ 70% LESS TYPING ⚡               ║
+╠═══════════════════════════╩══════════════════════════════════════╣
+║  📅 RUNNING THESE 20×/DAY = ~190,000 keystrokes saved per year  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -145,130 +155,98 @@ TOTAL SAVED:  ~190,000 keystrokes per year 🎉
 ## 🚀 Quick Start
 
 ```bash
-# ① Clone the repo
+# ① CLONE THE REPO
 git clone https://github.com/edwinnyandika/aliases2.git
 
-# ② Append aliases to your .bashrc
+# ② LOAD THE ALIASES
 cat aliases2/.bashrc >> ~/.bashrc
 
-# ③ Reload shell instantly
+# ③ ACTIVATE IMMEDIATELY (no restart!)
 source ~/.bashrc
 
-# ④ Verify it worked
-alias | grep "^alias g"
-
-# ✅ You should see all git aliases listed!
+# ④ TEST IT
+gs        #  → git status ✅
+nrd       #  → npm run dev ✅
+gpom      #  → git push -u origin main ✅
 ```
 
-### ✅ Success Checklist
+**60-second setup checklist:**
 
 ```
-[ ] Cloned the repo
-[ ] Copied .bashrc content
-[ ] Ran source ~/.bashrc  (or: sb)
-[ ] Tested gs → shows git status output
-[ ] Tested nrd → starts dev server
-[ ] Customized personal paths (cdp, cdg, cdo)
+[ ] Cloned the repo ...................... gi ✓
+[ ] Appended .bashrc content .............. ✓
+[ ] Ran: source ~/.bashrc  (or: sb) ....... ✓
+[ ] Tested gs → shows git status .......... ✓
+[ ] Customized personal paths ............. ✓  ← see ⚠️ note!
 ```
 
 ---
 
 ## 🔶 Git Aliases
 
-> Master git without memorizing full commands.
-
 <details>
-<summary><b>🖼️ Visual Flow — Click to expand</b></summary>
+<summary><b>🕹️ STAGE 1: GIT — Click to Enter</b></summary>
 
 <br/>
 
 ```
-GIT ALIAS VISUAL MAP
-═════════════════════════════════════════════════════════════
-
-  SETUP PHASE
-  ┌──────────────────────────────────────────────────────┐
-  │  gi      →  git init                                 │
-  │  grao    →  git remote add origin <url>              │
-  └──────────────────────────────────────────────────────┘
-              ↓
-
-  DAILY WORK LOOP
-  ┌──────────────────────────────────────────────────────┐
-  │                                                      │
-  │   gs   →  git status   (check what changed)         │
-  │    ↓                                                 │
-  │   ga   →  git add <file>   OR                       │
-  │   gaa  →  git add .        (stage everything)       │
-  │    ↓                                                 │
-  │   gc   →  git commit -m "message"                   │
-  │    ↓                                                 │
-  │   gp   →  git push                                  │
-  │                                                      │
-  └──────────────────────────────────────────────────────┘
-              ↓
-
-  REMOTE MANAGEMENT
-  ┌──────────────────────────────────────────────────────┐
-  │  grv   →  git remote -v      (see remote URLs)      │
-  │  gpl   →  git pull           (get latest)           │
-  │  gpo   →  git push -u origin (set upstream)         │
-  │  gpom  →  git push -u origin main (→ main branch)  │
-  └──────────────────────────────────────────────────────┘
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  🔶  GIT ALIAS ARCADE  — 11 POWER-UPS AVAILABLE             ║
+  ╠══════════════════════════════════════════════════════════════╣
+  ║                                                              ║
+  ║   PHASE 1 — INIT YOUR REPO                                   ║
+  ║   ┌──────────────────────────────────────────────────────┐   ║
+  ║   │  gi    →  git init                                   │   ║
+  ║   │  grao  →  git remote add origin <url>               │   ║
+  ║   └──────────────────────────────────────────────────────┘   ║
+  ║                            ↓                                 ║
+  ║   PHASE 2 — DAILY WORK LOOP  (repeat forever)                ║
+  ║   ┌──────────────────────────────────────────────────────┐   ║
+  ║   │  gs   →  git status      check what changed         │   ║
+  ║   │   ↓                                                  │   ║
+  ║   │  gaa  →  git add .       stage everything           │   ║
+  ║   │   ↓           OR                                    │   ║
+  ║   │  ga   →  git add <file>  stage one file             │   ║
+  ║   │   ↓                                                  │   ║
+  ║   │  gc   →  git commit -m   commit with message        │   ║
+  ║   │   ↓                                                  │   ║
+  ║   │  gp   →  git push        send to remote             │   ║
+  ║   └──────────────────────────────────────────────────────┘   ║
+  ║                            ↓                                 ║
+  ║   PHASE 3 — REMOTE CONTROL                                   ║
+  ║   ┌──────────────────────────────────────────────────────┐   ║
+  ║   │  grv   →  git remote -v           see remotes       │   ║
+  ║   │  gpl   →  git pull                get latest        │   ║
+  ║   │  gpo   →  git push -u origin      set upstream      │   ║
+  ║   │  gpom  →  git push -u origin main → main branch     │   ║
+  ║   └──────────────────────────────────────────────────────┘   ║
+  ╚══════════════════════════════════════════════════════════════╝
 ```
 
-</details>
+| 🕹️ Alias | 💾 Expands To | 📺 Use It When... |
+|--------|------------|-----------------|
+| `gi` | `git init` | Starting a brand new repo |
+| `gs` | `git status` | Checking what changed (use this **all the time**) |
+| `ga` | `git add` | Staging one file: `ga index.js` |
+| `gaa` | `git add .` | Staging **everything** at once |
+| `gc` | `git commit -m` | Committing: `gc "feat: dark mode"` |
+| `gp` | `git push` | Pushing to already-tracked remote |
+| `gpl` | `git pull` | Pulling latest before you start work |
+| `grao` | `git remote add origin` | Linking local repo to GitHub |
+| `grv` | `git remote -v` | Checking remote URLs |
+| `gpo` | `git push -u origin` | Pushing a new branch |
+| `gpom` | `git push -u origin main` | First push to main |
 
-<details>
-<summary><b>📖 Full Alias Table — Click to expand</b></summary>
-
-<br/>
-
-| Alias | Full Command | When To Use |
-|-------|-------------|-------------|
-| `gi` | `git init` | Starting a brand new local repo |
-| `gs` | `git status` | **Most used** — check what's changed |
-| `ga` | `git add` | Stage a specific file: `ga index.js` |
-| `gaa` | `git add .` | Stage **everything** at once |
-| `gc` | `git commit -m` | Commit: `gc "fix: nav bug"` |
-| `gp` | `git push` | Push to already-tracked remote |
-| `gpl` | `git pull` | Pull latest from remote |
-| `grao` | `git remote add origin` | Link local repo to GitHub |
-| `grv` | `git remote -v` | Verify remote URL is correct |
-| `gpo` | `git push -u origin` | Push + set upstream: `gpo feature-branch` |
-| `gpom` | `git push -u origin main` | First push to main branch |
-
-</details>
-
-<details>
-<summary><b>⚡ Git Workflows — Click to see examples</b></summary>
-
-<br/>
-
-**🆕 Starting a new project:**
+**🎮 Live Workflow:**
 ```bash
-mkdir my-app && cd my-app
-gi                                    # git init
-grao https://github.com/you/my-app   # link to GitHub
-gaa                                   # git add .
-gc "init: project setup"              # first commit
-gpom                                  # push to main
-```
+gi                                     # git init
+grao https://github.com/you/app.git   # connect GitHub
+gaa && gc "init: setup" && gpom        # stage + commit + push in one line!
 
-**📅 Daily development loop:**
-```bash
-gpl                        # pull latest changes first
-# ... write code ...
-gs                         # check what changed
-gaa                        # stage everything
-gc "feat: add dark mode"   # commit with message
-gp                         # push to remote
-```
-
-**🔍 Checking remote:**
-```bash
-grv   # shows: origin  https://github.com/you/repo.git (fetch)
-      #        origin  https://github.com/you/repo.git (push)
+# Every day after:
+gpl                  # pull first!
+# ...code...
+gaa && gc "fix: bug" && gp
 ```
 
 </details>
@@ -277,89 +255,52 @@ grv   # shows: origin  https://github.com/you/repo.git (fetch)
 
 ## 🔴 npm Aliases
 
-> npm scripts in half the keystrokes.
-
 <details>
-<summary><b>🖼️ Visual Map — Click to expand</b></summary>
+<summary><b>🕹️ STAGE 2: NPM — Click to Enter</b></summary>
 
 <br/>
 
 ```
-npm ALIAS DECISION TREE
-══════════════════════════════════════════════════════════════
-
-  Starting a project?
-  ┌────────────────────────────────────────────────────────┐
-  │  ni   →  npm install         (install everything)      │
-  │  nid  →  npm install -D      (dev dependency)          │
-  │  nig  →  npm install -g      (global tool)             │
-  └────────────────────────────────────────────────────────┘
-
-  Running scripts?
-  ┌────────────────────────────────────────────────────────┐
-  │  nrd  →  npm run dev         ← most used daily!        │
-  │  nrb  →  npm run build       (production build)        │
-  │  nrw  →  npm run watch       (file watcher)            │
-  │  ns   →  npm start           (start server)            │
-  │  nr   →  npm run <script>    (any custom script)       │
-  └────────────────────────────────────────────────────────┘
-
-  Special:
-  ┌────────────────────────────────────────────────────────┐
-  │  nrr  →  npm run reset && nrd   (reset + restart dev)  │
-  │  lise →  live-server            (browser auto-reload)  │
-  └────────────────────────────────────────────────────────┘
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  🔴  NPM ALIAS ARCADE  — 10 POWER-UPS AVAILABLE             ║
+  ╠══════════════════════════════════════════════════════════════╣
+  ║                                                              ║
+  ║  INSTALLING PACKAGES?                                        ║
+  ║  ┌────────────────────────────────────────────────────────┐  ║
+  ║  │  ni   →  npm install         install everything        │  ║
+  ║  │  nid  →  npm install -D      dev dependency            │  ║
+  ║  │  nig  →  npm install -g      global tool               │  ║
+  ║  └────────────────────────────────────────────────────────┘  ║
+  ║                                                              ║
+  ║  RUNNING SCRIPTS?                                            ║
+  ║  ┌────────────────────────────────────────────────────────┐  ║
+  ║  │  nrd  →  npm run dev    ◄── most used! start here      │  ║
+  ║  │  nrb  →  npm run build      production build           │  ║
+  ║  │  nrw  →  npm run watch      file watcher               │  ║
+  ║  │  ns   →  npm start          start server               │  ║
+  ║  │  nr   →  npm run <x>        any custom script          │  ║
+  ║  └────────────────────────────────────────────────────────┘  ║
+  ║                                                              ║
+  ║  SPECIAL MOVES:                                              ║
+  ║  ┌────────────────────────────────────────────────────────┐  ║
+  ║  │  nrr  →  npm run reset && nrd   NUKE + restart dev     │  ║
+  ║  │  lise →  live-server            browser auto-reload    │  ║
+  ║  └────────────────────────────────────────────────────────┘  ║
+  ╚══════════════════════════════════════════════════════════════╝
 ```
 
-</details>
-
-<details>
-<summary><b>📖 Full Alias Table — Click to expand</b></summary>
-
-<br/>
-
-| Alias | Full Command | Use Case |
-|-------|-------------|----------|
-| `ni` | `npm install` | Fresh install of all packages |
-| `nid` | `npm install -D` | Add dev dependency: `nid eslint` |
-| `nig` | `npm install -g` | Global tools: `nig live-server` |
-| `nr` | `npm run` | Any script: `nr lint` |
-| `nrd` | `npm run dev` | Start Vite / Next / etc. |
-| `nrw` | `npm run watch` | Watch & rebuild on change |
-| `nrb` | `npm run build` | Production build |
-| `ns` | `npm start` | Start production server |
-| `nrr` | `npm run reset && nrd` | Nuke state and restart dev |
-| `lise` | `live-server` | Static file dev with hot reload |
-
-</details>
-
-<details>
-<summary><b>⚡ npm Workflows — Click to see examples</b></summary>
-
-<br/>
-
-**🆕 Setting up a new npm project:**
-```bash
-ni                         # install all dependencies
-nrd                        # start dev server
-```
-
-**📦 Adding packages:**
-```bash
-nid tailwindcss            # npm install -D tailwindcss
-nig vercel                 # npm install -g vercel
-```
-
-**🏗️ Building for production:**
-```bash
-nrb                        # npm run build
-ns                         # npm start (serve production build)
-```
-
-**🔄 When things break:**
-```bash
-nrr   # npm run reset && npm run dev  (nuclear option 💥)
-```
+| 🕹️ Alias | 💾 Expands To | 📺 Notes |
+|--------|------------|--------|
+| `ni` | `npm install` | Fresh install all packages |
+| `nid` | `npm install -D` | `nid eslint prettier` |
+| `nig` | `npm install -g` | `nig vercel` |
+| `nr` | `npm run` | `nr lint` |
+| `nrd` | `npm run dev` | Your daily driver |
+| `nrw` | `npm run watch` | Rebuild on save |
+| `nrb` | `npm run build` | Ship it |
+| `ns` | `npm start` | Serve production |
+| `nrr` | `npm run reset && nrd` | When things are broken 💥 |
+| `lise` | `live-server` | HTML dev with live reload |
 
 </details>
 
@@ -367,47 +308,32 @@ nrr   # npm run reset && npm run dev  (nuclear option 💥)
 
 ## 🟠 pnpm Aliases
 
-> All the npm aliases, but for pnpm — faster installs, disk-efficient.
-
 <details>
-<summary><b>🖼️ npm vs pnpm — Click to see comparison</b></summary>
+<summary><b>🕹️ STAGE 3: PNPM — Click to Enter</b></summary>
 
 <br/>
 
 ```
-npm  alias    pnpm alias    What it does
-──────────────────────────────────────────────────
-ni            pni           install all packages
-nid           pnid          install dev dependency
-nig           pnig          install globally
-nrd           pnrd          run dev server
-nrb           pnrb          run build
-nrw           pnrw          run watch
-ns            pns           start
-nr            pnr           run any script
-nrr           pnrr          reset + dev
-
-Pattern: just add "p" prefix for pnpm! 🧠
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  🟠  NPM vs PNPM  — SPOT THE PATTERN!                       ║
+  ╠══════════════════════════════════════════════════════════════╣
+  ║                                                              ║
+  ║   npm alias   pnpm alias   command                          ║
+  ║   ─────────   ──────────   ───────────────────              ║
+  ║   ni      →   pni          install all packages             ║
+  ║   nid     →   pnid         install -D (dev dep)             ║
+  ║   nig     →   pnig         install -g (global)              ║
+  ║   nrd     →   pnrd         run dev                          ║
+  ║   nrb     →   pnrb         run build                        ║
+  ║   nrw     →   pnrw         run watch                        ║
+  ║   ns      →   pns          start                            ║
+  ║   nr      →   pnr          run <script>                     ║
+  ║   nrr     →   pnrr         reset + dev                      ║
+  ║                                                              ║
+  ║   🧠 THE TRICK:  just add "p" in front of the npm alias!    ║
+  ║   ni → pni   nrd → pnrd   nrb → pnrb   THAT'S IT!          ║
+  ╚══════════════════════════════════════════════════════════════╝
 ```
-
-</details>
-
-<details>
-<summary><b>📖 Full Alias Table — Click to expand</b></summary>
-
-<br/>
-
-| Alias | Full Command | Notes |
-|-------|-------------|-------|
-| `pni` | `pnpm install` | Faster than npm install |
-| `pnid` | `pnpm install -D` | Dev dependency |
-| `pnig` | `pnpm install -g` | Global package |
-| `pnr` | `pnpm run` | Run any script |
-| `pnrd` | `pnpm run dev` | Dev server |
-| `pnrw` | `pnpm run watch` | Watch mode |
-| `pnrb` | `pnpm run build` | Production build |
-| `pns` | `pnpm start` | Start server |
-| `pnrr` | `pnpm run reset && nrd` | Reset + restart |
 
 </details>
 
@@ -415,90 +341,46 @@ Pattern: just add "p" prefix for pnpm! 🧠
 
 ## 🟣 Utility Aliases
 
-> Control your shell environment like a pro.
-
 <details>
-<summary><b>🖼️ Visual Guide — Click to expand</b></summary>
+<summary><b>🕹️ STAGE 4: UTILITIES — Click to Enter</b></summary>
 
 <br/>
 
 ```
-UTILITY ALIAS GUIDE
-══════════════════════════════════════════════════════════════
-
-  EDITING YOUR SHELL CONFIG
-  ┌──────────────────────────────────────────────────────────┐
-  │                                                          │
-  │   nnb  ─────▶  nano ~/.bashrc   ─────▶  edit aliases    │
-  │    │                                                     │
-  │    └── save file ──▶  sb  ──▶  source ~/.bashrc         │
-  │                       ↑                                  │
-  │                  reload instantly!                       │
-  │                  no restart needed ✅                    │
-  └──────────────────────────────────────────────────────────┘
-
-  BACKUP YOUR CONFIG
-  ┌──────────────────────────────────────────────────────────┐
-  │   cpb  →  copies ~/.bashrc to repo + git push           │
-  │           (keeps your config backed up on GitHub!)       │
-  └──────────────────────────────────────────────────────────┘
-
-  LAUNCHING TOOLS
-  ┌──────────────────────────────────────────────────────────┐
-  │   cs    →  cursor          (Cursor AI editor)            │
-  │   qd    →  qoder           (Qoder app)                   │
-  │   lise  →  live-server     (browser live-reload)         │
-  │   ntt   →  wt -w 0 nt -d  (new Windows Terminal tab)    │
-  │   cls   →  clear           (clean terminal screen)       │
-  └──────────────────────────────────────────────────────────┘
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  🟣  UTILITY COMMAND CENTER                                  ║
+  ╠══════════════════════════════════════════════════════════════╣
+  ║                                                              ║
+  ║  MANAGE YOUR SHELL CONFIG:                                   ║
+  ║                                                              ║
+  ║   nnb ──────────────▶ nano ~/.bashrc                        ║
+  ║    │   (edit aliases)        │                               ║
+  ║    │                  save file                              ║
+  ║    │                         │                               ║
+  ║    └── sb ◄──────────────────┘  source ~/.bashrc            ║
+  ║         (reload instantly — no restart needed!) ✅           ║
+  ║                                                              ║
+  ║   cpb ─────▶ backup .bashrc ─────▶ git push to GitHub 🔒   ║
+  ║                                                              ║
+  ║  LAUNCH TOOLS:                                               ║
+  ║   cs    →  cursor          Cursor AI editor                 ║
+  ║   qd    →  qoder           Qoder app                        ║
+  ║   lise  →  live-server     browser hot-reload               ║
+  ║   ntt   →  wt -w 0 nt -d  new Windows Terminal tab         ║
+  ║   cls   →  clear           wipe the screen                  ║
+  ╚══════════════════════════════════════════════════════════════╝
 ```
 
-</details>
-
-<details>
-<summary><b>📖 Full Alias Table — Click to expand</b></summary>
-
-<br/>
-
-| Alias | Full Command | What It Does |
-|-------|-------------|--------------|
-| `nnb` | `nano ~/.bashrc` | Open `.bashrc` in nano to edit aliases |
-| `sb` | `source ~/.bashrc` | **Reload aliases** without restarting terminal |
-| `cpb` | `cd .../cp ~/.bashrc && git push` | Backup `.bashrc` to this GitHub repo |
-| `cls` | `clear` | Clear the terminal screen |
-| `ntt` | `wt -w 0 nt -d` | New Windows Terminal tab in a given folder |
-| `cs` | `cursor` | Launch the Cursor AI editor |
-| `qd` | `qoder` | Launch the Qoder app |
-| `lise` | `live-server` | Start live-server with auto-reload |
-
-</details>
-
-<details>
-<summary><b>💡 Pro Tips — Click to expand</b></summary>
-
-<br/>
-
-**Adding a new alias:**
-```bash
-nnb                              # open ~/.bashrc in nano
-# add your line:
-# alias myalias='some long command'
-# save with Ctrl+O, exit with Ctrl+X
-sb                               # reload instantly!
-myalias                          # test it works ✅
-```
-
-**Backing up your config:**
-```bash
-cpb   # one command → copies .bashrc → commits → pushes to GitHub
-```
-
-**Opening a project in Cursor from terminal:**
-```bash
-cdp              # jump to /d/Projects
-cd my-app        # enter project
-cs .             # open current folder in Cursor
-```
+| 🕹️ Alias | 💾 Expands To | 📺 Use It When... |
+|--------|------------|-----------------|
+| `nnb` | `nano ~/.bashrc` | Editing aliases |
+| `sb` | `source ~/.bashrc` | **Reloading after any edit** |
+| `cpb` | `cd .../cp .bashrc && git push` | Backing up to GitHub |
+| `cls` | `clear` | Screen is cluttered |
+| `ntt` | `wt -w 0 nt -d` | New tab in a folder |
+| `cs` | `cursor` | Open Cursor editor |
+| `qd` | `qoder` | Open Qoder |
+| `lise` | `live-server` | Static HTML dev |
 
 </details>
 
@@ -506,230 +388,179 @@ cs .             # open current folder in Cursor
 
 ## 🔵 Navigation Aliases
 
-> Teleport between your most-visited folders instantly.
-
 <details>
-<summary><b>🖼️ Directory Map — Click to expand</b></summary>
+<summary><b>🕹️ STAGE 5: NAVIGATION — Click to Enter</b></summary>
 
 <br/>
 
 ```
-D: DRIVE STRUCTURE (KRAM's Machine)
-══════════════════════════════════════════════════════════════
-
-  cdd  ──▶  /d/                        (D: drive root)
-             │
-             ├── cdp ──▶ /d/Projects/  (all your projects)
-             │            ├── my-app/
-             │            ├── portfolio/
-             │            └── aliases2/   ← you are here
-             │
-             ├── cdg ──▶ /d/GOMYCODE/  (bootcamp work)
-             │            ├── week1/
-             │            └── week2/
-             │
-             └── cdo ──▶ /d/OVES/      (OVES projects)
-
-
-  💡 Customize these paths to match YOUR machine! See ⚠️ note below.
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  🔵  FOLDER TELEPORTER  — WARP ZONES ACTIVE                 ║
+  ╠══════════════════════════════════════════════════════════════╣
+  ║                                                              ║
+  ║   D:\  (cdd)                                                ║
+  ║    │                                                         ║
+  ║    ├──▶ Projects\  (cdp) ◄── MAIN WARP ZONE                ║
+  ║    │        ├── my-app\                                      ║
+  ║    │        ├── portfolio\                                   ║
+  ║    │        └── aliases2\  ◄── YOU ARE HERE                 ║
+  ║    │                                                         ║
+  ║    ├──▶ GOMYCODE\  (cdg) ◄── BOOTCAMP WARP ZONE            ║
+  ║    │        ├── week1\                                       ║
+  ║    │        └── projects\                                    ║
+  ║    │                                                         ║
+  ║    └──▶ OVES\  (cdo) ◄── WORK WARP ZONE                    ║
+  ║                                                              ║
+  ║   ⚠️  CUSTOMIZE THESE PATHS FOR YOUR OWN MACHINE!           ║
+  ╚══════════════════════════════════════════════════════════════╝
 ```
 
-</details>
-
-<details>
-<summary><b>📖 Full Alias Table — Click to expand</b></summary>
-
-<br/>
-
-| Alias | Expands To | Goes To |
-|-------|-----------|---------|
-| `cdp` | `cd /d/Projects` | 📁 Main projects folder |
-| `cdg` | `cd /d/GOMYCODE` | 📁 GOMYCODE bootcamp folder |
+| 🕹️ Alias | 💾 Expands To | 📺 Warp Zone |
+|--------|------------|-------------|
+| `cdd` | `cd /d` | D: drive root |
+| `cdp` | `cd /d/Projects` | 📁 All projects |
+| `cdg` | `cd /d/GOMYCODE` | 📁 Bootcamp work |
 | `cdo` | `cd /d/OVES` | 📁 OVES folder |
-| `cdd` | `cd /d` | 📁 D: drive root |
-
-</details>
-
-<details>
-<summary><b>🛠️ Customize for YOUR machine — Click to expand</b></summary>
-
-<br/>
-
-```bash
-# Open your bashrc
-nnb
-
-# Find the navigation section and update paths:
-
-# BEFORE (KRAM's paths):
-alias cdp='cd /d/Projects'
-alias cdg='cd /d/GOMYCODE'
-
-# AFTER (your paths):
-alias cdp='cd ~/projects'
-alias cdw='cd ~/work'
-alias cdc='cd ~/code'
-
-# Reload
-sb
-```
-
-**Common path patterns by OS:**
-
-| System | Home | Example |
-|--------|------|---------|
-| Windows (Git Bash) | `/c/Users/YourName` | `alias cdp='cd /c/Users/John/Projects'` |
-| macOS / Linux | `~` or `/home/name` | `alias cdp='cd ~/projects'` |
-| WSL | `/mnt/c/Users/...` | `alias cdp='cd /mnt/c/Users/John/Dev'` |
 
 </details>
 
 ---
 
-## 🗺️ Complete Alias Map
-
-> Every alias at a glance — your complete terminal cheat sheet.
+## 🗺️ Full Cheat Sheet
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║                    ALIASES2  —  FULL CHEAT SHEET                    ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  GIT                          │  NPM                                 ║
-║  ────────────────────────     │  ────────────────────────            ║
-║  gi    →  git init            │  ni    →  npm install                ║
-║  gs    →  git status          │  nid   →  npm install -D             ║
-║  ga    →  git add             │  nig   →  npm install -g             ║
-║  gaa   →  git add .           │  nr    →  npm run                    ║
-║  gc    →  git commit -m       │  nrd   →  npm run dev                ║
-║  gp    →  git push            │  nrw   →  npm run watch              ║
-║  gpl   →  git pull            │  nrb   →  npm run build              ║
-║  grao  →  git remote add org  │  ns    →  npm start                  ║
-║  grv   →  git remote -v       │  nrr   →  npm run reset && nrd       ║
-║  gpo   →  git push -u origin  │  lise  →  live-server                ║
-║  gpom  →  git push -u org main│                                      ║
-╠═══════════════════════════════╪══════════════════════════════════════╣
-║  PNPM                         │  UTILITIES                           ║
-║  ────────────────────────     │  ────────────────────────            ║
-║  pni   →  pnpm install        │  nnb   →  nano ~/.bashrc             ║
-║  pnid  →  pnpm install -D     │  sb    →  source ~/.bashrc           ║
-║  pnig  →  pnpm install -g     │  cpb   →  backup bashrc to git       ║
-║  pnr   →  pnpm run            │  cls   →  clear                      ║
-║  pnrd  →  pnpm run dev        │  ntt   →  new terminal tab           ║
-║  pnrw  →  pnpm run watch      │  cs    →  cursor                     ║
-║  pnrb  →  pnpm run build      │  qd    →  qoder                      ║
-║  pns   →  pnpm start          │                                      ║
-║  pnrr  →  pnpm run reset+dev  │  NAVIGATION                          ║
-║                               │  ────────────────────────            ║
-║                               │  cdp   →  cd /d/Projects             ║
-║                               │  cdg   →  cd /d/GOMYCODE             ║
-║                               │  cdo   →  cd /d/OVES                 ║
-║                               │  cdd   →  cd /d                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+  ╔════════════════════════════════════════════════════════════════════════╗
+  ║               🕹️  ALIASES2 — COMPLETE POWER-UP ROSTER  🕹️            ║
+  ╠═══════════════════════════════╦════════════════════════════════════════╣
+  ║  🔶 GIT                       ║  🔴 NPM                               ║
+  ║  gi    →  git init            ║  ni    →  npm install                 ║
+  ║  gs    →  git status          ║  nid   →  npm install -D              ║
+  ║  ga    →  git add             ║  nig   →  npm install -g              ║
+  ║  gaa   →  git add .           ║  nr    →  npm run                     ║
+  ║  gc    →  git commit -m       ║  nrd   →  npm run dev                 ║
+  ║  gp    →  git push            ║  nrw   →  npm run watch               ║
+  ║  gpl   →  git pull            ║  nrb   →  npm run build               ║
+  ║  grao  →  git remote add org  ║  ns    →  npm start                   ║
+  ║  grv   →  git remote -v       ║  nrr   →  npm run reset && nrd        ║
+  ║  gpo   →  git push -u origin  ║  lise  →  live-server                 ║
+  ║  gpom  →  git push -u org main║                                       ║
+  ╠═══════════════════════════════╬════════════════════════════════════════╣
+  ║  🟠 PNPM                      ║  🟣 UTILITIES + 🔵 NAVIGATION         ║
+  ║  pni   →  pnpm install        ║  nnb   →  nano ~/.bashrc              ║
+  ║  pnid  →  pnpm install -D     ║  sb    →  source ~/.bashrc            ║
+  ║  pnig  →  pnpm install -g     ║  cpb   →  backup bashrc to git        ║
+  ║  pnr   →  pnpm run            ║  cls   →  clear                       ║
+  ║  pnrd  →  pnpm run dev        ║  ntt   →  new terminal tab            ║
+  ║  pnrw  →  pnpm run watch      ║  cs    →  cursor                      ║
+  ║  pnrb  →  pnpm run build      ║  qd    →  qoder                       ║
+  ║  pns   →  pnpm start          ╠════════════════════════════════════════╣
+  ║  pnrr  →  pnpm reset+dev      ║  cdp   →  cd /d/Projects              ║
+  ║                               ║  cdg   →  cd /d/GOMYCODE              ║
+  ║                               ║  cdo   →  cd /d/OVES                  ║
+  ║                               ║  cdd   →  cd /d                       ║
+  ╚═══════════════════════════════╩════════════════════════════════════════╝
 ```
 
 ---
 
 ## 🔁 Real-World Workflows
 
-> Copy-paste these complete workflows for your daily tasks.
-
 <details>
-<summary><b>🆕 Workflow 1: Starting a Fresh Project — Click to expand</b></summary>
+<summary><b>🆕 MISSION 1: Launch A New Project</b></summary>
 
 <br/>
 
 ```bash
-# ─────────────────────────────────────────────
-# SCENARIO: Starting a new React app from scratch
-# ─────────────────────────────────────────────
+# ════════════════════════════════════════════════════
+#  MISSION: Get a new project on GitHub in < 1 min
+# ════════════════════════════════════════════════════
 
-cdp                                    # cd /d/Projects
-npx create-react-app my-app            # scaffold the app
-cd my-app
-
-gi                                     # git init (already done by CRA, but good habit)
-grao https://github.com/you/my-app    # connect to GitHub
-gaa                                    # stage everything
-gc "init: create react app"            # first commit
-gpom                                   # push to main ✅
-
-ni                                     # install deps
-nrd                                    # start dev server 🚀
+cdp                                    # warp to /d/Projects
+mkdir my-app && cd my-app             # create + enter folder
+gi                                     # git init
+grao https://github.com/you/my-app   # connect to GitHub
+ni                                     # npm install (if package.json exists)
+gaa && gc "init: project setup"       # stage + commit
+gpom                                   # push to main ✅ DONE!
+nrd                                    # fire up the dev server 🚀
 ```
 
 </details>
 
 <details>
-<summary><b>📅 Workflow 2: Daily Development Loop — Click to expand</b></summary>
+<summary><b>📅 MISSION 2: Daily Dev Loop</b></summary>
 
 <br/>
 
 ```bash
-# ─────────────────────────────────────────────
-# SCENARIO: Working on a feature each morning
-# ─────────────────────────────────────────────
+# ════════════════════════════════════════════════════
+#  MISSION: The perfect start to every coding day
+# ════════════════════════════════════════════════════
 
-cdp                         # jump to Projects
-cd my-app                   # enter project folder
-gpl                         # pull latest from teammates
-nrd                         # start dev server
+cdp && cd my-app     # warp to project
+gpl                  # pull teammates' latest changes
+nrd                  # start dev server
 
-# ... write code for a few hours ...
+# ...write legendary code...
 
-gs                          # see what you changed
-gaa                         # stage all changes
-gc "feat: add user profile" # descriptive commit
-gp                          # push to remote 🚀
+gs                   # see what you changed
+gaa                  # stage all changes
+gc "feat: dark mode" # commit with a clear message
+gp                   # push to remote 🚀
 
-# Done for the day!
+# LEVEL COMPLETE!
 ```
 
 </details>
 
 <details>
-<summary><b>🐛 Workflow 3: Hotfix on Production — Click to expand</b></summary>
+<summary><b>🔥 MISSION 3: Emergency Hotfix</b></summary>
 
 <br/>
 
 ```bash
-# ─────────────────────────────────────────────
-# SCENARIO: Bug found, fix it fast!
-# ─────────────────────────────────────────────
+# ════════════════════════════════════════════════════
+#  MISSION: Prod is down. Fix it. Fast.
+# ════════════════════════════════════════════════════
 
-cdp && cd my-app            # get to the project fast
-gpl                         # pull latest
-gs                          # check status
+cdp && cd my-app            # warp instantly
+gpl                         # pull latest state
 
-# ... fix the bug ...
+# ... locate and fix the bug ...
 
 gaa                         # stage the fix
-gc "fix: resolve null crash on login"   # clear commit message
-gpom                        # push directly to main
-nrb                         # rebuild for production
+gc "fix: crash on login"    # clear commit
+gpom                        # push to main NOW
+nrb                         # rebuild production
+
+# 🏆 CRISIS AVERTED
 ```
 
 </details>
 
 <details>
-<summary><b>⚙️ Workflow 4: Updating Your Aliases — Click to expand</b></summary>
+<summary><b>⚙️ MISSION 4: Add A New Alias</b></summary>
 
 <br/>
 
 ```bash
-# ─────────────────────────────────────────────
-# SCENARIO: Adding a new alias to your config
-# ─────────────────────────────────────────────
+# ════════════════════════════════════════════════════
+#  MISSION: Level up your alias collection
+# ════════════════════════════════════════════════════
 
-nnb                         # open ~/.bashrc in nano
+nnb                           # open ~/.bashrc in nano
 
 # Add your new alias at the bottom:
-# alias myalias='some long command here'
+# alias myalias='some long command'
 
-# Save: Ctrl+O → Enter → Ctrl+X
+# Save: Ctrl+O → Enter
+# Exit: Ctrl+X
 
-sb                          # reload shell instantly
-myalias                     # test it works ✅
-cpb                         # backup to GitHub 🔒
+sb                            # reload instantly — no restart!
+myalias                       # test it ✅
+cpb                           # backup to GitHub 🔒
+
+# NEW POWER-UP SAVED!
 ```
 
 </details>
@@ -738,216 +569,279 @@ cpb                         # backup to GitHub 🔒
 
 ## ⚙️ Installation
 
-### Option 1 — Clone & Source (Recommended)
+### Method 1 — Clone & Append
 
 ```bash
-# Clone the repo
 git clone https://github.com/edwinnyandika/aliases2.git
-
-# Append to your existing .bashrc (safe — doesn't overwrite)
 cat aliases2/.bashrc >> ~/.bashrc
-
-# Reload
 source ~/.bashrc
-
-# Test
-gs   # should run: git status
 ```
 
-### Option 2 — One-liner via curl
+### Method 2 — One-Liner
 
 ```bash
 curl -sL https://raw.githubusercontent.com/edwinnyandika/aliases2/main/.bashrc >> ~/.bashrc && source ~/.bashrc
 ```
 
-### Option 3 — Manual (Pick What You Want)
+### Method 3 — Manual (Cherry Pick)
 
 ```bash
-# Open your .bashrc
 nano ~/.bashrc
-
-# Paste only the aliases you want, e.g.:
-alias gs='git status'
-alias gaa='git add .'
-alias gc='git commit -m'
-alias gpom='git push -u origin main'
-alias nrd='npm run dev'
-
-# Save → Ctrl+O, Exit → Ctrl+X
-
-# Reload
+# paste only the aliases you want, save, exit
 source ~/.bashrc
 ```
 
-### ✅ Verify Everything Loaded
+### Verify It Worked
 
 ```bash
-# Check all git aliases loaded:
+type gs
+# Output: gs is aliased to 'git status' ✅
+
 alias | grep "^alias g"
-
-# Check npm aliases:
-alias | grep "^alias n"
-
-# Check a specific one:
-type gs   # should output: gs is aliased to 'git status'
+# Output: all git aliases listed ✅
 ```
 
 ---
 
 ## 🖥️ Custom Prompt
 
-> This `.bashrc` replaces your default prompt with a colorized, git-aware version.
-
 <details>
-<summary><b>🖼️ Prompt Anatomy — Click to expand</b></summary>
+<summary><b>🎨 See What Your Terminal Becomes — Click to expand</b></summary>
 
 <br/>
 
 ```
-What you see in your terminal:
+BEFORE (boring default):
+─────────────────────────────
+$
 
+
+AFTER (KRAM's colorized prompt):
+─────────────────────────────────────────────────────────
 KRAM@DESKTOP MINGW64 ~/Projects/my-app (main)
 $
 
-  │       │       │         │              │
-  │       │       │         │              └── 🔵 git branch
-  │       │       │         └─────────────── 🟡 current directory
-  │       │       └───────────────────────── 🟣 MSYSTEM (MINGW64)
-  │       └───────────────────────────────── 🟢 machine hostname
-  └───────────────────────────────────────── 🟢 your username
+  ┌──────────────────────────────────────────────────┐
+  │  COLOR KEY:                                      │
+  │  🟢 KRAM@DESKTOP  ←  your username + machine    │
+  │  🟣 MINGW64       ←  bash environment           │
+  │  🟡 ~/Projects    ←  where you are RIGHT NOW    │
+  │  🔵 (main)        ←  active git branch          │
+  │  ⬜ $             ←  ready for your command     │
+  └──────────────────────────────────────────────────┘
+```
 
-
-COLOR LEGEND:
-  🟢 Green   →  KRAM@DESKTOP  (you + machine)
-  🟣 Magenta →  MINGW64       (environment)
-  🟡 Yellow  →  ~/Projects    (where you are)
-  🔵 Cyan    →  (main)        (git branch)
-  ⬜ White   →  $             (prompt symbol)
+Personalize it — swap `KRAM` for your name:
+```bash
+nnb   # open .bashrc
+# find the PS1 line, change KRAM to your username
+sb    # reload
 ```
 
 </details>
-
-**The PS1 code in `.bashrc`:**
-```bash
-export PS1='\[\033]0;$TITLEPREFIX:$PWD\007\]\n\
-\[\033[32m\]KRAM@\h \
-\[\033[35m\]$MSYSTEM \
-\[\033[33m\]\w\
-\[\033[36m\]`__git_ps1`\
-\[\033[0m\]\n$ '
-```
-
-**Customize your username:**
-```bash
-# Change KRAM to your name
-export PS1='\[\033[32m\]YOURNAME@\h \[\033[35m\]$MSYSTEM \[\033[33m\]\w\[\033[36m\]`__git_ps1`\[\033[0m\]\n$ '
-```
 
 ---
 
-## 🎮 Test Yourself
+## 🎮 PLAY THE GAME
 
-> How well do you know the aliases? Work through these challenges! 👇
+> **ALIAS QUEST** — 4 levels of challenges. Can you reach the top? 👾
 
-<details>
-<summary><b>🧠 Quiz 1 — Alias to Command (Beginner)</b></summary>
+---
 
-<br/>
+### 👾 LEVEL 1 — Alias Decoder (Beginner)
 
-For each alias, think of the full command it runs. Then reveal the answer!
+```
+  DECODE THE ALIAS — Think of the full command, then reveal!
 
-| Alias | Full Command |
-|-------|-------------|
-| `gs` | <details><summary>👁️ Reveal</summary>**`git status`** — shows what files changed</details> |
-| `gaa` | <details><summary>👁️ Reveal</summary>**`git add .`** — stages all files</details> |
-| `gc` | <details><summary>👁️ Reveal</summary>**`git commit -m`** — commit with message: `gc "msg"`</details> |
-| `gpom` | <details><summary>👁️ Reveal</summary>**`git push -u origin main`** — first push to main</details> |
-| `nrd` | <details><summary>👁️ Reveal</summary>**`npm run dev`** — start the dev server</details> |
-| `sb` | <details><summary>👁️ Reveal</summary>**`source ~/.bashrc`** — reload shell config</details> |
-| `cls` | <details><summary>👁️ Reveal</summary>**`clear`** — clear the terminal</details> |
-| `cdp` | <details><summary>👁️ Reveal</summary>**`cd /d/Projects`** — jump to projects folder</details> |
-
-</details>
-
-<details>
-<summary><b>🧠 Quiz 2 — Command to Alias (Intermediate)</b></summary>
-
-<br/>
-
-You see a full command — what's the alias?
-
-| Full Command | Alias |
-|-------------|-------|
-| `git init` | <details><summary>👁️ Reveal</summary>**`gi`**</details> |
-| `git remote add origin` | <details><summary>👁️ Reveal</summary>**`grao`**</details> |
-| `git remote -v` | <details><summary>👁️ Reveal</summary>**`grv`**</details> |
-| `npm install -D` | <details><summary>👁️ Reveal</summary>**`nid`**</details> |
-| `npm install -g` | <details><summary>👁️ Reveal</summary>**`nig`**</details> |
-| `pnpm run build` | <details><summary>👁️ Reveal</summary>**`pnrb`**</details> |
-| `nano ~/.bashrc` | <details><summary>👁️ Reveal</summary>**`nnb`**</details> |
-| `live-server` | <details><summary>👁️ Reveal</summary>**`lise`**</details> |
-
-</details>
-
-<details>
-<summary><b>🧠 Quiz 3 — Fill In The Workflow (Advanced)</b></summary>
-
-<br/>
-
-Complete this real workflow using ONLY aliases:
-
-```bash
-# Scenario: You just created a new project folder.
-# Fill in the blanks!
-
-___                                    # 1. Initialize git
-___ https://github.com/you/app.git    # 2. Add remote origin
-___                                    # 3. Stage everything
-___ "init: project setup"             # 4. First commit
-___                                    # 5. Push to main
-___                                    # 6. Install npm packages
-___                                    # 7. Start the dev server
+  ╔═══════════╦═══════════════════════════════════════════════╗
+  ║  ALIAS    ║  WHAT DOES IT RUN?                            ║
+  ╠═══════════╬═══════════════════════════════════════════════╣
+  ║  gs       ║  ???                                          ║
+  ║  gaa      ║  ???                                          ║
+  ║  gc       ║  ???                                          ║
+  ║  nrd      ║  ???                                          ║
+  ║  sb       ║  ???                                          ║
+  ╚═══════════╩═══════════════════════════════════════════════╝
 ```
 
-<details>
-<summary>✅ Reveal All Answers</summary>
+<details><summary>👁️ Reveal: gs</summary>
+
+```
+gs  →  git status
+Used: check what files changed before staging
+```
+
+</details>
+
+<details><summary>👁️ Reveal: gaa</summary>
+
+```
+gaa  →  git add .
+Used: stage ALL changed files at once
+```
+
+</details>
+
+<details><summary>👁️ Reveal: gc</summary>
+
+```
+gc  →  git commit -m
+Used: gc "your message here"
+```
+
+</details>
+
+<details><summary>👁️ Reveal: nrd</summary>
+
+```
+nrd  →  npm run dev
+Used: start your dev server daily
+```
+
+</details>
+
+<details><summary>👁️ Reveal: sb</summary>
+
+```
+sb  →  source ~/.bashrc
+Used: reload aliases after editing .bashrc (no restart!)
+```
+
+</details>
+
+---
+
+### 👾 LEVEL 2 — Reverse Lookup (Intermediate)
+
+```
+  FIND THE ALIAS — You see the full command, name the alias!
+
+  ╔═══════════════════════════════╦═══════════════════════════╗
+  ║  FULL COMMAND                 ║  ALIAS IS... ???          ║
+  ╠═══════════════════════════════╬═══════════════════════════╣
+  ║  git init                     ║  ???                      ║
+  ║  git remote add origin        ║  ???                      ║
+  ║  npm install -D               ║  ???                      ║
+  ║  pnpm run build               ║  ???                      ║
+  ║  nano ~/.bashrc               ║  ???                      ║
+  ╚═══════════════════════════════╩═══════════════════════════╝
+```
+
+<details><summary>👁️ Reveal: git init</summary>
+
+```
+git init  →  gi
+```
+
+</details>
+
+<details><summary>👁️ Reveal: git remote add origin</summary>
+
+```
+git remote add origin  →  grao
+```
+
+</details>
+
+<details><summary>👁️ Reveal: npm install -D</summary>
+
+```
+npm install -D  →  nid
+```
+
+</details>
+
+<details><summary>👁️ Reveal: pnpm run build</summary>
+
+```
+pnpm run build  →  pnrb
+```
+
+</details>
+
+<details><summary>👁️ Reveal: nano ~/.bashrc</summary>
+
+```
+nano ~/.bashrc  →  nnb
+```
+
+</details>
+
+---
+
+### 👾 LEVEL 3 — Workflow Challenge (Advanced)
+
+```
+  COMPLETE THE MISSION — Fill every blank with the right alias
+
+  MISSION: Start a new project and push it to GitHub
+
+  ___                                     # 1. init git
+  ___ https://github.com/you/repo.git    # 2. add remote origin
+  ___                                     # 3. stage everything
+  ___ "init: first commit"               # 4. commit
+  ___                                     # 5. push to main
+  ___                                     # 6. install packages
+  ___                                     # 7. start dev server
+```
+
+<details><summary>✅ Reveal Full Solution</summary>
 
 ```bash
 gi                                     # git init
-grao https://github.com/you/app.git   # git remote add origin
+grao https://github.com/you/repo.git  # git remote add origin
 gaa                                    # git add .
-gc "init: project setup"              # git commit -m
+gc "init: first commit"               # git commit -m
 gpom                                   # git push -u origin main
 ni                                     # npm install
 nrd                                    # npm run dev
 ```
 
-**Score yourself:**
-- 7/7 → 🏆 Alias Master
-- 5-6/7 → 🥈 Getting there!
-- 3-4/7 → 🥉 Keep practicing
-- 0-2/7 → 📖 Study the cheat sheet above
+**Score:**
+```
+7 / 7  →  🏆 ALIAS MASTER — LEGENDARY!
+5 / 7  →  🥈 ALIAS PRO — Almost there
+3 / 7  →  🥉 ALIAS ROOKIE — Keep studying
+0 / 7  →  📖 Open the cheat sheet, come back!
+```
 
 </details>
 
-</details>
+---
 
-<details>
-<summary><b>🧠 Quiz 4 — npm vs pnpm (Expert)</b></summary>
+### 👾 LEVEL 4 — BOSS BATTLE (Expert)
 
-<br/>
+```
+  THE FINAL TEST — Match EVERY npm alias to its pnpm twin
 
-Match the npm alias to its pnpm equivalent:
+  npm     pnpm
+  ────    ────
+  ni   →  ???
+  nid  →  ???
+  nig  →  ???
+  nrd  →  ???
+  nrb  →  ???
+  nrw  →  ???
+  ns   →  ???
+  nr   →  ???
+```
 
-| npm alias | pnpm alias |
-|-----------|-----------|
-| `ni` | <details><summary>👁️ Reveal</summary>**`pni`**</details> |
-| `nrd` | <details><summary>👁️ Reveal</summary>**`pnrd`**</details> |
-| `nrb` | <details><summary>👁️ Reveal</summary>**`pnrb`**</details> |
-| `nid` | <details><summary>👁️ Reveal</summary>**`pnid`**</details> |
-| `nig` | <details><summary>👁️ Reveal</summary>**`pnig`**</details> |
+<details><summary>🏆 Reveal Boss Answers</summary>
 
-> 💡 **Pattern:** All pnpm aliases = `pn` prefix + rest of npm alias. Easy!
+```
+ni   →  pni
+nid  →  pnid
+nig  →  pnig
+nrd  →  pnrd
+nrb  →  pnrb
+nrw  →  pnrw
+ns   →  pns
+nr   →  pnr
+
+🧠 THE SECRET: just put "pn" instead of "n" !
+   ni → pni    nrd → pnrd    nrb → pnrb
+   ONCE YOU SEE IT, YOU NEVER FORGET IT.
+```
 
 </details>
 
@@ -955,73 +849,95 @@ Match the npm alias to its pnpm equivalent:
 
 ## 🏆 Skill Tree
 
-> Track your alias mastery. Check off each skill as you learn it!
+> Check off each alias as you master it. **Work top to bottom!**
 
 <details>
-<summary><b>🌱 Level 1 — Beginner (click to see)</b></summary>
+<summary><b>🌱 LEVEL 1 — Beginner  (8 aliases)</b></summary>
 
 <br/>
 
 ```
-BEGINNER ALIASES
-═══════════════════════════════════════════
+  START HERE ↓
 
-  [ ] gs    →  git status          ← start here!
-  [ ] gaa   →  git add .
-  [ ] gc    →  git commit -m
-  [ ] gp    →  git push
-  [ ] ni    →  npm install
-  [ ] nrd   →  npm run dev
-  [ ] cls   →  clear
-  [ ] sb    →  source ~/.bashrc
+  [ ]  gs    →  git status          ← try this one first!
+  [ ]  gaa   →  git add .
+  [ ]  gc    →  git commit -m
+  [ ]  gp    →  git push
+  [ ]  ni    →  npm install
+  [ ]  nrd   →  npm run dev
+  [ ]  cls   →  clear
+  [ ]  sb    →  source ~/.bashrc
 
-Complete all 8 → unlock Level 2! 🔓
+  Completed 8/8? → 🔓 LEVEL 2 UNLOCKED
 ```
 
 </details>
 
 <details>
-<summary><b>⚡ Level 2 — Intermediate (click to see)</b></summary>
+<summary><b>⚡ LEVEL 2 — Intermediate  (8 aliases)</b></summary>
 
 <br/>
 
 ```
-INTERMEDIATE ALIASES
-═══════════════════════════════════════════
+  [ ]  gi    →  git init
+  [ ]  gpl   →  git pull
+  [ ]  grao  →  git remote add origin
+  [ ]  gpom  →  git push -u origin main
+  [ ]  nid   →  npm install -D
+  [ ]  nrb   →  npm run build
+  [ ]  cdp   →  cd /d/Projects
+  [ ]  nnb   →  nano ~/.bashrc
 
-  [ ] gi    →  git init
-  [ ] gpl   →  git pull
-  [ ] gpom  →  git push -u origin main
-  [ ] grao  →  git remote add origin
-  [ ] nid   →  npm install -D
-  [ ] nrb   →  npm run build
-  [ ] cdp   →  cd /d/Projects
-  [ ] nnb   →  nano ~/.bashrc
-
-Complete all 8 → unlock Level 3! 🔓
+  Completed 8/8? → 🔓 LEVEL 3 UNLOCKED
 ```
 
 </details>
 
 <details>
-<summary><b>🏆 Level 3 — Advanced (click to see)</b></summary>
+<summary><b>🔥 LEVEL 3 — Advanced  (10 aliases)</b></summary>
 
 <br/>
 
 ```
-ADVANCED ALIASES
-═══════════════════════════════════════════
+  [ ]  grv   →  git remote -v
+  [ ]  gpo   →  git push -u origin
+  [ ]  nig   →  npm install -g
+  [ ]  nrr   →  npm run reset && nrd
+  [ ]  pnrd  →  pnpm run dev
+  [ ]  pnrb  →  pnpm run build
+  [ ]  pni   →  pnpm install
+  [ ]  cpb   →  backup .bashrc to GitHub
+  [ ]  lise  →  live-server
+  [ ]  ntt   →  new terminal tab
 
-  [ ] grv   →  git remote -v
-  [ ] gpo   →  git push -u origin
-  [ ] nig   →  npm install -g
-  [ ] nrr   →  npm run reset && nrd
-  [ ] pnrd  →  pnpm run dev
-  [ ] pnrb  →  pnpm run build
-  [ ] cpb   →  backup bashrc to GitHub
-  [ ] lise  →  live-server
+  Completed 10/10? → 🏆 ALIAS MASTER UNLOCKED
+```
 
-Complete all 8 → you're an ALIAS MASTER! 🏆
+</details>
+
+<details>
+<summary><b>🏆 ALIAS MASTER CERTIFICATE</b></summary>
+
+<br/>
+
+```
+  ╔══════════════════════════════════════════════════════════╗
+  ║                                                          ║
+  ║   🏆  CERTIFICATE OF ALIAS MASTERY  🏆                   ║
+  ║                                                          ║
+  ║   This certifies that                                    ║
+  ║                                                          ║
+  ║        ________________________________                  ║
+  ║              (your name here)                            ║
+  ║                                                          ║
+  ║   has mastered all 42 aliases in aliases2                ║
+  ║   and is hereby declared a TERMINAL WIZARD 🧙            ║
+  ║                                                          ║
+  ║   Keystrokes saved per year: ~190,000                   ║
+  ║   Time saved per year: priceless                         ║
+  ║                                                          ║
+  ║   Signed: KRAM  ////  aliases2 v2.0                      ║
+  ╚══════════════════════════════════════════════════════════╝
 ```
 
 </details>
@@ -1030,55 +946,52 @@ Complete all 8 → you're an ALIAS MASTER! 🏆
 
 ## ⚠️ Important Note
 
-> 🚨 **KRAM's personal paths — do not blindly copy-paste!**
-
-Some aliases reference **specific directories on KRAM's Windows machine**. Before using them, update these paths to match your system:
+> **🚨 Some aliases use KRAM's personal machine paths — don't blindly copy them!**
 
 ```bash
 # ❌ KRAM's paths (won't work on your machine):
 alias cdp='cd /d/Projects'
 alias cdg='cd /d/GOMYCODE'
 alias cdo='cd /d/OVES'
-alias cpb='cd /d/Projects/Aliases && ...'
 
-# ✅ Update to YOUR paths:
-alias cdp='cd ~/projects'         # macOS / Linux
-alias cdp='cd /c/Users/You/Dev'   # Windows Git Bash
+# ✅ Update to match YOUR machine:
+alias cdp='cd ~/projects'           # macOS / Linux
+alias cdp='cd /c/Users/You/Dev'     # Windows Git Bash
+alias cdp='cd /mnt/c/Users/You/Dev' # WSL
 ```
 
-Also, these tools must be installed for their aliases to work:
+**Also check these tools are installed before using their aliases:**
 
-| Alias | Requires |
-|-------|---------|
-| `lise` | `npm install -g live-server` |
-| `cs` | [Cursor editor](https://cursor.sh) installed |
-| `qd` | Qoder installed |
-| `ntt` | Windows Terminal installed |
+```
+lise  →  needs: npm install -g live-server
+cs    →  needs: cursor.sh installed
+qd    →  needs: qoder installed
+ntt   →  needs: Windows Terminal installed
+```
 
 ---
 
 <div align="center">
 
-## 📊 Stats At A Glance
-
-![Git](https://img.shields.io/badge/Git%20Aliases-11-F05032?style=flat-square&logo=git&logoColor=white)
-![npm](https://img.shields.io/badge/npm%20Aliases-10-CB3837?style=flat-square&logo=npm&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm%20Aliases-9-F69220?style=flat-square&logo=pnpm&logoColor=white)
-![Util](https://img.shields.io/badge/Utility%20Aliases-8-8B5CF6?style=flat-square)
-![Nav](https://img.shields.io/badge/Nav%20Aliases-4-3B82F6?style=flat-square)
-![Total](https://img.shields.io/badge/Total-42%20Aliases-39d353?style=flat-square)
+<!-- RETRO FOOTER STATS -->
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=3000&pause=1000&color=FF00FF&background=0D0221&center=true&vCenter=true&repeat=true&width=600&height=40&lines=THANKS+FOR+VISITING%2C+PLAYER+ONE!;FORK+IT.+CUSTOMIZE+IT.+OWN+IT." alt="Footer typing" />
 
 <br/>
 
-```
-Made with ❤️ by KRAM
-Fork it. Customize it. Make it yours.
-```
-
-[![Fork](https://img.shields.io/badge/Fork%20This%20Repo-39d353?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edwinnyandika/aliases2/fork)
+![Git](https://img.shields.io/badge/Git-11-F05032?style=flat-square&logo=git)
+![npm](https://img.shields.io/badge/npm-10-CB3837?style=flat-square&logo=npm)
+![pnpm](https://img.shields.io/badge/pnpm-9-F69220?style=flat-square&logo=pnpm)
+![Utils](https://img.shields.io/badge/Utils-8-8B5CF6?style=flat-square)
+![Nav](https://img.shields.io/badge/Nav-4-3B82F6?style=flat-square)
+![Total](https://img.shields.io/badge/TOTAL-42%20ALIASES-00ffff?style=flat-square)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:39d353,100:1a7f37&height=120&section=footer&animation=fadeIn" width="100%"/>
+[![Fork](https://img.shields.io/badge/⭐%20STAR%20THIS%20REPO-ff00ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edwinnyandika/aliases2)
+[![Fork](https://img.shields.io/badge/🍴%20FORK%20%26%20CUSTOMIZE-00ffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/edwinnyandika/aliases2/fork)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d0221,50:ff00ff,100:00ffff&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
