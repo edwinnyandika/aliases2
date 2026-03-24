@@ -241,7 +241,6 @@ source ~/.bashrc
 ### ✅ Verify Installation
 
 ```bash
-# Run this to check aliases loaded correctly
 alias | grep "gs\|gaa\|gc\|nrd"
 ```
 
@@ -294,8 +293,6 @@ Think you know the aliases? Try this quick challenge! 👇
 
 <br/>
 
-Fill in the aliases to complete this typical project setup:
-
 ```bash
 # 1. Initialize git              → ___
 # 2. Connect remote origin       → ___ https://github.com/you/repo.git
@@ -340,19 +337,14 @@ KRAM@DESKTOP MINGW64 ~/Projects/my-app (main)
 $
 ```
 
-Activate it by running:
-```bash
-source ~/.bashrc
-```
-
 ---
 
 ## ⚠️ Important Note
 
 > **🚨 Some aliases are personal to KRAM.**
 >
-> Aliases like `cpb`, `cdp`, `cdg`, `cdo` point to **specific paths on KRAM's machine** (e.g. `/d/Projects`, `/d/OVES`).
-> **Do not blindly copy-paste** — update the paths to match your own directory structure.
+> Aliases like `cpb`, `cdp`, `cdg`, `cdo` point to **specific paths on KRAM's machine**.
+> **Do not blindly copy-paste** — update paths to match your own system.
 
 ```bash
 # Change this:
@@ -376,7 +368,7 @@ alias cdp='cd ~/my-projects'
 
 <br/>
 
-**Maintained by [KRAM](https://github.com/edwinnyandika)** · Feel free to fork and customize for your own workflow!
+**Maintained by [KRAM](https://github.com/edwinnyandika)** · Feel free to fork and customize!
 
 <br/>
 
