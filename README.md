@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,100:1a7f37&height=200&section=header&text=aliases2&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=⚡%20KRAM's%20Git%20Bash%20%26%20CLI%20Aliases&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:39d353,100:1a7f37&height=200&section=header&text=aliases2&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=KRAM%27s%20Git%20Bash%20%26%20CLI%20Aliases&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<!-- BADGES -->
+<br/>
+
 ![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Aliases-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-Aliases-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -14,13 +14,14 @@
 <br/>
 
 > **⚡ Supercharge your terminal.** Stop typing long commands — let short aliases do the heavy lifting.
-> 
+>
 > `git push -u origin main` → just type **`gpom`**
 
 <br/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2000&pause=800&color=39D353&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=gs+%E2%86%92+git+status;gaa+%E2%86%92+git+add+.;gc+%22msg%22+%E2%86%92+git+commit+-m+%22msg%22;gpom+%E2%86%92+git+push+-u+origin+main;nrd+%E2%86%92+npm+run+dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2000&pause=800&color=39D353&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=gs+%E2%86%92+git+status;gaa+%E2%86%92+git+add+.;gpom+%E2%86%92+git+push+-u+origin+main;nrd+%E2%86%92+npm+run+dev;pnrb+%E2%86%92+pnpm+run+build" alt="Typing SVG" />
+
+<br/><br/>
 
 </div>
 
@@ -96,7 +97,7 @@ gaa                       # git add .
 gc "first commit"         # git commit -m "first commit"
 gpom                      # git push -u origin main
 
-# Later...
+# Later on...
 gs                        # git status
 ga src/index.js           # git add src/index.js
 gc "fix: button styles"   # git commit -m "fix: button styles"
@@ -263,13 +264,13 @@ Think you know the aliases? Try this quick challenge! 👇
 
 <br/>
 
-| # | Alias | Your Answer | Answer |
-|---|-------|-------------|--------|
-| 1 | `gaa` | ??? | <details><summary>Reveal</summary>`git add .`</details> |
-| 2 | `gpom` | ??? | <details><summary>Reveal</summary>`git push -u origin main`</details> |
-| 3 | `nrd` | ??? | <details><summary>Reveal</summary>`npm run dev`</details> |
-| 4 | `sb` | ??? | <details><summary>Reveal</summary>`source ~/.bashrc`</details> |
-| 5 | `pnrb` | ??? | <details><summary>Reveal</summary>`pnpm run build`</details> |
+| # | Alias | Answer |
+|---|-------|--------|
+| 1 | `gaa` | <details><summary>Reveal</summary>`git add .`</details> |
+| 2 | `gpom` | <details><summary>Reveal</summary>`git push -u origin main`</details> |
+| 3 | `nrd` | <details><summary>Reveal</summary>`npm run dev`</details> |
+| 4 | `sb` | <details><summary>Reveal</summary>`source ~/.bashrc`</details> |
+| 5 | `pnrb` | <details><summary>Reveal</summary>`pnpm run build`</details> |
 
 </details>
 
@@ -278,29 +279,29 @@ Think you know the aliases? Try this quick challenge! 👇
 
 <br/>
 
-| # | Command | Your Answer | Answer |
-|---|---------|-------------|--------|
-| 1 | `git status` | ??? | <details><summary>Reveal</summary>`gs`</details> |
-| 2 | `npm install -D` | ??? | <details><summary>Reveal</summary>`nid`</details> |
-| 3 | `git remote add origin` | ??? | <details><summary>Reveal</summary>`grao`</details> |
-| 4 | `cd /d/Projects` | ??? | <details><summary>Reveal</summary>`cdp`</details> |
-| 5 | `clear` | ??? | <details><summary>Reveal</summary>`cls`</details> |
+| # | Command | Answer |
+|---|---------|--------|
+| 1 | `git status` | <details><summary>Reveal</summary>`gs`</details> |
+| 2 | `npm install -D` | <details><summary>Reveal</summary>`nid`</details> |
+| 3 | `git remote add origin` | <details><summary>Reveal</summary>`grao`</details> |
+| 4 | `cd /d/Projects` | <details><summary>Reveal</summary>`cdp`</details> |
+| 5 | `clear` | <details><summary>Reveal</summary>`cls`</details> |
 
 </details>
 
 <details>
-<summary><b>🧠 Round 3 — Finish the workflow</b></summary>
+<summary><b>🧠 Round 3 — Complete the workflow</b></summary>
 
 <br/>
 
-Complete this typical project setup using only aliases:
+Fill in the aliases to complete this typical project setup:
 
 ```bash
 # 1. Initialize git              → ___
 # 2. Connect remote origin       → ___ https://github.com/you/repo.git
 # 3. Install dependencies        → ___
 # 4. Start dev server            → ___
-# 5. Make changes, stage all     → ___
+# 5. Stage all changes           → ___
 # 6. Commit                      → ___ "feat: add homepage"
 # 7. Push to main                → ___
 ```
@@ -319,18 +320,19 @@ gpom
 ```
 
 </details>
+
 </details>
 
 ---
 
 ## 🖥️ Custom Prompt
 
-This `.bashrc` also includes a custom **colorized Git Bash prompt** that shows:
+This `.bashrc` also sets up a custom **colorized Git Bash prompt** showing:
 
-- 🟢 Your username and machine
-- 🟣 Current MSYSTEM (MINGW64)  
-- 🟡 Current working directory  
-- 🔵 Current git branch (via `__git_ps1`)
+- 🟢 Username and machine name
+- 🟣 Current MSYSTEM (e.g. MINGW64)
+- 🟡 Current working directory
+- 🔵 Active git branch (via `__git_ps1`)
 
 **Preview:**
 ```
@@ -338,7 +340,7 @@ KRAM@DESKTOP MINGW64 ~/Projects/my-app (main)
 $
 ```
 
-To activate the prompt along with aliases:
+Activate it by running:
 ```bash
 source ~/.bashrc
 ```
@@ -349,14 +351,14 @@ source ~/.bashrc
 
 > **🚨 Some aliases are personal to KRAM.**
 >
-> Aliases like `cpb`, `cdp`, `cdg`, `cdo` reference **specific paths on KRAM's machine** (e.g. `/d/Projects`, `/d/OVES`).  
+> Aliases like `cpb`, `cdp`, `cdg`, `cdo` point to **specific paths on KRAM's machine** (e.g. `/d/Projects`, `/d/OVES`).
 > **Do not blindly copy-paste** — update the paths to match your own directory structure.
 
 ```bash
-# Example: change this
+# Change this:
 alias cdp='cd /d/Projects'
 
-# To match YOUR setup
+# To match YOUR setup:
 alias cdp='cd ~/my-projects'
 ```
 
@@ -378,6 +380,6 @@ alias cdp='cd ~/my-projects'
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,100:1a7f37&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:39d353,100:1a7f37&height=100&section=footer" width="100%"/>
 
 </div>
