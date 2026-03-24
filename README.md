@@ -11,7 +11,7 @@
 <div align="center">
 
 <!-- ░░ RETRO WAVE HEADER ░░ -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d0221,30:0a1628,60:ff00ff,100:00ffff&height=260&section=header&text=ALIASES2&fontSize=88&fontColor=00ffff&fontAlignY=42&desc=⚡%20KRAM%27s%20RETRO%20TERMINAL%20POWER-UP%20PACK&descAlignY=64&descSize=15&animation=fadeIn&stroke=ff00ff&strokeWidth=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d0221,30:0a1628,60:ff00ff,100:00ffff&height=260&section=header&text=ALIASES2&fontSize=88&fontColor=00ffff&fontAlignY=42&desc=⚡%20EDWIN%27s%20RETRO%20TERMINAL%20POWER-UP%20PACK&descAlignY=64&descSize=15&animation=fadeIn&stroke=ff00ff&strokeWidth=3" width="100%"/>
 
 <br/>
 
